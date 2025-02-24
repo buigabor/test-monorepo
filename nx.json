@@ -1,0 +1,8 @@
+{
+  "installation": {
+    "version": "20.4.6",
+    "plugins": {
+      "@nx/next": "20.4.6"
+    }
+  }
+}

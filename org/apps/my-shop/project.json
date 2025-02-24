@@ -1,0 +1,9 @@
+{
+  "name": "my-shop",
+  "sourceRoot": "apps/my-shop",
+  "projectType": "application",
+  "tags": [],
+  "targets": {
+    
+  }
+}
